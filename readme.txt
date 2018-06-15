@@ -5,6 +5,7 @@ Hola
 
 Bonjour
 Howdy
+Konichiwa
 
 
 
